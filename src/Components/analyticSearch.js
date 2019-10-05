@@ -41,6 +41,7 @@ const ReportDetails = props => {
               >
                 <img className={styles.iconExcel} src={excelLogo} />
                 Export to Excel
+                delete to
               </button>
             </div>
             <table className={styles.table}>
